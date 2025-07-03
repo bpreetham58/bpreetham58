@@ -1,11 +1,8 @@
-<h1 align="center">👋 Hey there! I'm Preetham</h1>
+# 👋 Hey there! I'm Preetham
 
-<p align="center">
-  🎓 Pre-final year <strong>Information Science</strong> student at <br/>
-  <strong>The National Institute of Engineering, Mysore</strong> <br/>
-  with a strong passion for <strong>Web Development</strong> & <strong>AI-driven Applications</strong>. <br/>
-  🚀 I love building interactive, scalable, and efficient solutions that solve real-world problems.
-</p>
+🎓 Pre-final year **Information Science** student at **The National Institute of Engineering, Mysore**,  
+with a strong passion for **Web Development** & **AI-driven Applications**.  
+🚀 I love building interactive, scalable, and efficient solutions that solve real-world problems.
 
 ---
 
