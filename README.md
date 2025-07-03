@@ -9,38 +9,19 @@
 ## ✨ Tech Stack
 
 ### 🔷 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,c" alt="Languages" />
-</p>
+![Languages](https://skillicons.dev/icons?i=js,java,python,c)
 
 ### 🌐 Frontend & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" alt="Web Development" />
-</p>
+![Web Development](https://skillicons.dev/icons?i=react,nodejs,html,css)
 
 ### 🗄️ Databases & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
-</p>
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ---
 
 ## 🔗 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/preetham-b-9b8671263/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:bpreetham58@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## 🌱 Currently Exploring
-- ⚡ Advanced React patterns & performance optimization
-- 🔌 Building real-time apps with Socket.IO
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham-b-9b8671263/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpreetham58@gmail.com)
 
 ---
