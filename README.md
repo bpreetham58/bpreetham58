@@ -25,3 +25,11 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpreetham58@gmail.com)
 
 ---
+
+## 📊 GitHub Stats
+
+![Preetham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpreetham58&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpreetham58&layout=compact&theme=tokyonight)
+
+---
+
