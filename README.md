@@ -1,5 +1,5 @@
 # 🌟 Hi, I’m Preetham! 👨‍💻  
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=bpreetham58&left_color=blue&right_color=purple)
+![Profile Views](https://komarev.com/ghpvc/?username=bpreetham58&label=Profile%20views&color=0e75b6&style=flat)
 
 🎓 I’m a pre-final year **Information Science** student at **The National Institute of Engineering, Mysore**.  
 💡 Passionate about crafting **modern web applications** and experimenting with **AI-driven solutions**.  
