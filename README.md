@@ -1,4 +1,5 @@
-# 🌟 Hi, I’m Preetham! 👨‍💻
+# 🌟 Hi, I’m Preetham! 👨‍💻  
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=bpreetham58&left_color=blue&right_color=purple)
 
 🎓 I’m a pre-final year **Information Science** student at **The National Institute of Engineering, Mysore**.  
 💡 Passionate about crafting **modern web applications** and experimenting with **AI-driven solutions**.  
@@ -8,13 +9,13 @@
 
 ## ✨ Tech Stack
 
-### 🔷 Languages
+### 🔷 Languages  
 ![Languages](https://skillicons.dev/icons?i=js,java,python,c)
 
-### 🌐 Frontend & Backend
+### 🌐 Frontend & Backend  
 ![Web Development](https://skillicons.dev/icons?i=react,nodejs,html,css)
 
-### 🗄️ Databases & Tools
+### 🗄️ Databases & Tools  
 ![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
 
 ---
@@ -30,6 +31,3 @@
 
 ![Preetham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpreetham58&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpreetham58&layout=compact&theme=tokyonight)
-
----
-
