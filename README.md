@@ -27,11 +27,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preetham-b-9b8671263/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bpreetham58@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-![Preetham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpreetham58&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_rank=false)
-
 
 ---
