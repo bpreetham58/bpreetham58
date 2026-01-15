@@ -31,10 +31,7 @@
 
 ## 📊 GitHub Stats
 
-![Preetham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpreetham58&show_icons=true&theme=tokyonight)
+![Preetham's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpreetham58&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_rank=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpreetham58&layout=compact&theme=tokyonight)
 
 ---
-
-⭐ *Feel free to explore my repositories and connect with me!*
