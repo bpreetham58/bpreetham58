@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m Preetham! 👨‍💻  
 
-🎓 I’m a pre-final year **Information Science** student at **The National Institute of Engineering, Mysore**.  
+🎓 I’m a final year **Information Science** student at **The National Institute of Engineering, Mysore**.  
 💡 Passionate about crafting **modern web applications** and experimenting with **AI-driven solutions**.  
 🚀 I enjoy building fast, responsive, and meaningful projects that make an impact.
 
